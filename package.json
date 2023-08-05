@@ -1,0 +1,19 @@
+{
+  "name": "totorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-inro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
